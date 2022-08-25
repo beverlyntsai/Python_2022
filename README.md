@@ -1,6 +1,6 @@
 Here are Python tutorial projects that tutor my students.<br />
 
-Description: 
+Description: <br />
 Each project is also a tutorial to guide my students to learn Python.<br />
 
 Projects: <br />
